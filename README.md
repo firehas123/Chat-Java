@@ -22,9 +22,3 @@ This Java Chat Application provides a platform for real-time messaging between u
 ## Usage
 - Launch the server before connecting clients.
 - Open multiple instances of the client application to test real-time messaging.
-
-## Contributing
-Contributions are welcome. If you have improvements or bug fixes, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for more details.
