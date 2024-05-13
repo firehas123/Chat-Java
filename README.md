@@ -15,7 +15,7 @@ This Java Chat Application provides a platform for real-time messaging between u
 
 ## Installation
 1. Clone the repository:
-'git clone https://github.com/firehas123/Chat-Java.git'
+`git clone https://github.com/firehas123/Chat-Java.git`
 2. Open the project in an IDE like Eclipse or IntelliJ.
 3. Compile and run the `Server.java` file first, followed by `Client.java`.
 
